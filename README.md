@@ -4,7 +4,7 @@ Clone do whatsapp web criado com o objetivo de expandir meus horizontes em react
 <img src="gif-whatsappclone.gif">
 
 
-A autenticacao do usuário é feita via login no facebook.
+**A autenticacao do usuário é feita através de login via facebook.**
 
 O back-end foi construído utilizando firebase. 
 
