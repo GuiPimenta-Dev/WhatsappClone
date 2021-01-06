@@ -1,7 +1,7 @@
 # WhatsappClone
 Clone do whatsapp web criado com o objetivo de expandir meus horizontes em reactJS.
 
-<img src="gif-whatsappclone.gif" height="150" width="500">
+<img src="gif-whatsappclone.gif" height="500" width="500">
 
 
 A autenticacao do usuário é feita via login no facebook.
