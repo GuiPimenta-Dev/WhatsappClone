@@ -7,7 +7,7 @@ A autenticacao do usuário é feita via login no facebook.
 
 O back-end foi construído utilizando firebase. 
 
-**Toda estrutura do projeto está modularizada para que o back-end possa ser alterado posteriormente com as mudanças sendo feitas no arquivo Api.js.**
+**Toda estrutura do projeto está modularizada para que o back-end possa ser alterado posteriormente com as mudanças sendo feitas no arquivo src/Api.js.**
 
 dependencias utilizadas no projeto:
     
